@@ -1,12 +1,15 @@
 <h1 align="center">Hola me llamo Esteban y este es Mi portfolio !</h1>
 <h3 align="center">Soy un programador Full Stack</h3>
 
-- 🔭 Repositorio donde subire todas las aplicaciones que se me ocurrran por mi cabeza alocada **
+- 🔭 este es mi portfolio **creando = Programando**
 
 - 💬 Preguntame sobre **javaScript, html , CSS , Python**
 
-<h3 align="left">Connect with me: estebanignaci6@gmail.com</h3>
+- 📫 correo: **estebanignaci6@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/esteban-ignacio-858a1a220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/esteban-ignacio-858a1a220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
