@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **javaScript, html , CSS , Python**
 
-<h3 align="left">Connect with me:estebanignaci6@gmail.com</h3>
+<h3 align="left">Connect with me: estebanignaci6@gmail.com</h3>
 <p align="left">
 </p>
 
