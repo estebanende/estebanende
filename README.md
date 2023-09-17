@@ -1,11 +1,11 @@
 <h1 align="center">Hola me llamo Esteban y este es Mi portfolio !</h1>
 <h3 align="center">Soy un programador Full Stack</h3>
 
-- 🔭Estoy Trabajando en **NTT DATA(Banca)**
+- 🔭 Repositorio donde subire todas las aplicaciones que se me ocurrran por mi cabeza alocada **
 
 - 💬 Preguntame sobre **javaScript, html , CSS , Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:estebanignaci6@gmail.com</h3>
 <p align="left">
 </p>
 
